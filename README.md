@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SensPortfolioViewTool::Renderer.copyright 'Matthew Israelson', 'All rights reserved'
+```
 
 ## Development
 
